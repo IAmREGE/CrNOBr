@@ -1,0 +1,9 @@
+{
+	"required": true,
+	"package": "rege.chemicalcompound.mod115.crnobr.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"EntityMixin"
+	],
+	"injectors": {"defaultRequire": 1}
+}

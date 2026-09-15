@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="crnobr"
+version="0.0.1"
+displayName="CrNOBr"
+description="Make creeper explosions not break blocks (unless you want)"
+displayURL="https://github.com/IAmREGE/CrNOBr"
+logoFile="icon.png"
+authors="RheniumGermanide"
+displayTest="IGNORE_ALL_VERSION"
+
+[[mixins]]
+config="crnobr.mixins.json"

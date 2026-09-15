@@ -1,0 +1,4 @@
+name: CrNOBr
+version: 0.0.1
+main: rege.chemicalcompound.mod115.crnobr.CrnobrPlugin
+description: Make creeper explosions not break blocks (unless you want)
