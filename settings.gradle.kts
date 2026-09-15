@@ -6,7 +6,6 @@ pluginManagement {
 		maven("https://repo.legacyfabric.net/repository/legacyfabric/") {
 			name = "legacy-fabric"
 		}
-		maven("https://maven.neoforged.net/releases")
 		mavenCentral()
 		gradlePluginPortal()
 	}
