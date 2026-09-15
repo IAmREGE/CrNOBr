@@ -10,3 +10,4 @@ __pycache__/
 *.jar
 *.iml
 !gradle-wrapper.jar
+!26xf/fakeneo.jar
