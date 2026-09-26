@@ -1,10 +1,11 @@
 modLoader="javafml"
 loaderVersion="[1,)"
 license="MIT"
+issueTrackerURL="https://github.com/IAmREGE/CrNOBr/issues"
 
 [[mods]]
 modId="crnobr"
-version="0.0.1"
+version="0.0.2"
 displayName="CrNOBr"
 description="Make creeper explosions not break blocks (unless you want)"
 displayURL="https://github.com/IAmREGE/CrNOBr"

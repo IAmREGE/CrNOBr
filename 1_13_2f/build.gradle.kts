@@ -31,3 +31,9 @@ tasks.jar {
 		into("META-INF")
 	}
 }
+
+tasks.named<Jar>("sourcesJar") {
+	from(rootProject.file("LICENSE")) {
+		into("META-INF")
+	}
+}

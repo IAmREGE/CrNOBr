@@ -1,0 +1,15 @@
+[
+	{
+		"modid": "crnobr",
+		"name": "CrNOBr",
+		"description": "Make creeper explosions not break blocks (unless you want)",
+		"version": "0.0.2",
+		"acceptedMinecraftVersions": "[1.7,1.8)",
+		"url": "https://github.com/IAmREGE/CrNOBr",
+		"authorList": ["RheniumGermanide"],
+		"logoFile": "icon.png",
+		"requiredMods": ["unimixins"],
+		"dependencies": ["unimixins"],
+		"useDependencyInformation": true
+	}
+]

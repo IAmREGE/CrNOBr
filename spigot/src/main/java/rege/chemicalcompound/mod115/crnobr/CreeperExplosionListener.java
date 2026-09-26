@@ -17,7 +17,7 @@ public class CreeperExplosionListener implements Listener {
 	@EventHandler(priority = EventPriority.LOW, ignoreCancelled = true)
 	public void onEntityExplode(EntityExplodeEvent event) {
 		Entity entity = event.getEntity();
-		if (entity instanceof Creeper && !this.plugin.isLitByPlayer((Creeper)entity)) {
+		if (entity instanceof Creeper && !this.plugin.isLitByPlayer(entity)) {
 			event.blockList().clear();
 		}
 	}
